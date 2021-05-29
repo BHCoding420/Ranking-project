@@ -1,0 +1,9 @@
+.PostDiv {
+    width: 50%;
+}
+
+.specificPostDiv {
+    background-color: cadetblue; 
+    margin-top: 10rem; 
+    margin-bottom: 10rem;
+}
